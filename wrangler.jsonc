@@ -1,0 +1,7 @@
+{
+    "name": "fedilinks-rss",
+    "compatibility_date": "2025-11-09", // Update to the day you deploy
+    "assets": {
+      "directory": "./dist"
+    }
+  }
